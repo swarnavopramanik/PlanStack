@@ -73,3 +73,9 @@ Expected Behaviour:
 Bonus:
 
 - The tasks can be dragged and dropped to a new column.
+
+  ### Screenshot
+
+![Screenshot](![Screenshot (633)](https://github.com/swarnavopramanik/Kanban-application/assets/105142693/68e1c73d-3d29-4779-9fa0-13b8ad6cb07f)
+
+
