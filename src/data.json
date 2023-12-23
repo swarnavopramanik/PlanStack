@@ -1,0 +1,463 @@
+{
+  "boards": [
+    {
+      "name": "Grouping Status ",
+      "isActive" : false,
+      "columns": [
+        {
+          "name": "Backlog",
+          "tasks": [
+            {
+              "description": "CAM-10",
+              "title": "Conduct Security Vulnerability Assessment",
+              "status": "Todo",
+              "subtasks": []
+  
+          },
+            {
+              "description": "CAM-7",
+              "title": "Create Onboarding Tutorial for New Users",
+              "status": "Todo",
+              "subtasks": []
+            }
+            
+          ]
+        },
+        {
+          "name": "Todo",
+          "tasks": [
+            {
+              "title": "Third-Party Payment Gateway",
+              "description": "CAM-6",
+              "status": "Todo",
+              "subtasks": []
+            },
+            {
+              "title": "Update User Profile Page UI",
+              "description": "CAM-1",
+              "status": "Todo",
+              "subtasks": []
+            },
+            {
+              "title": "Upgrade Server Infrastructure",
+              "description": "CAM-9",
+              "status": "Todo",
+              "subtasks": []
+            }
+          ]
+        },
+        {
+          "name": "In progress",
+          "tasks": [
+            {
+              "title": "Add Multi-Language Support - Enable multi-language support within the application.",
+              "description": "CAM-2",
+              "status": "Doing",
+              "subtasks": []
+            },
+            {
+              "title": "Enhance Search Functionality",
+              "description": "CAM-5",
+              "status": "Doing",
+              "subtasks": []
+            },
+            {
+              "title": "Implement Email Notification System",
+              "description": "CAM-4",
+              "status": "Doing",
+              "subtasks": []
+            },
+            {
+              "title": "Implement Role-Based Access Control (RBAC)",
+              "description": "CAM-8",
+              "status": "Doing",
+              "subtasks": []
+            },
+            {
+              "title": "Optimize Database Queries for Performance",
+              "description": "CAM-3",
+              "status": "Doing",
+              "subtasks": []
+            }
+          ]
+        },
+        {
+          "name": "Done",
+          "tasks": []
+        }     
+      ]
+    },
+    {
+      "name": "Grouping User",
+      "isActive" : false,
+      "columns": [
+        {
+          "name": "Anoop sharma",
+          "tasks": [
+            {
+              "title": "Create Onboarding Tutorial for New Users",
+              "description": "CAM-7",
+              "status": "Todo",
+              "subtasks": []
+            },
+            {
+              "title": "Implement Email Notification System",
+              "description": "CAM-4",
+              "status": "",
+              "subtasks": []
+            },
+            {
+              "title": "Update User Profile Page UI",
+              "description": "CAM-1",
+              "status": "",
+              "subtasks": [
+                
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Yogesh",
+          "tasks": [
+            {
+              "title": "Add Multi-Language Support - Enable multi-language support within the application.",
+              "description": "CAM-2",
+              "status": "",
+              "subtasks": []
+            },
+            {
+              "title": "Optimize Database Queries for Performance",
+              "description": "CAM-3",
+              "status": "",
+              "subtasks": []
+            },
+            {
+              "title": "Third-Party Payment Gateway",
+              "description": "CAM-6",
+              "status": "",
+              "subtasks": []
+              
+            }
+          ]
+        },
+        {
+          "name": "Suresh",
+          "tasks": [
+            {
+              "title": "Enhance Search Functionality",
+              "description": "CAM-5",
+              "status": "",
+              "subtasks": []
+              
+            },
+            {
+              "title": "Upgrade Server Infrastructure",
+              "description": "CAM-9",
+              "status": "",
+              "subtasks": []
+              
+            }
+          ]
+        },
+        {
+          "name": "Shankar Kumar",
+          "tasks": [
+            {
+              "title": "Implement Role-Based Access Control (RBAC)",
+              "description": "CAM-8",
+              "status": "",
+              "subtasks": []
+              
+            }
+          ]
+        },
+        {
+          "name": "Ramesh",
+          "tasks": [
+            {
+              "title": "Conduct Security Vulnerability Assessment",
+              "description": "CAM-10",
+              "status": "",
+              "subtasks": []
+              
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Grouping Priority",
+      "isActive" : false,
+      "columns": [
+        {
+          "name": "No Priority",
+          "tasks": [
+            {
+              "title": "Enhance Search Functionality",
+              "description": "CAM-5",
+              "status": "",
+              "subtasks": []
+            }
+          ]
+        },
+        {
+          "name": "Low",
+          "tasks": [
+            {
+              "title": "Conduct Security Vulnerability Assessment",
+              "description": "CAM-10",
+              "status": "",
+              "subtasks": []
+            },
+            {
+              "title": "Optimize Database Queries for Performance",
+              "description": "CAM-3",
+              "status": "",
+              "subtasks": []
+            },
+            {
+              "title": "Third-Party Payment Gateway",
+              "description": "CAM-6",
+              "status": "",
+              "subtasks": []
+            }
+          ]
+        },
+        {
+          "name": "Medium",
+          "tasks": [
+            {
+              "title": "Create Onboarding Tutorial for New Users",
+              "description": "CAM-7",
+              "status": "",
+              "subtasks": []
+            },
+            {
+              "title": "Upgrade Server Infrastructure",
+              "description": "CAM-9",
+              "status": "",
+              "subtasks": []
+            }
+          ]
+        },
+        {
+          "name": "High",
+          "tasks": [
+            {
+              "title": "Add Multi-Language Support - Enable multi-language support within the application ",
+              "description": "CAM-2",
+              "subtasks": []
+            },
+            {
+              "title": "Implement Email Notification System",
+              "description": "CAM-4",
+              "status": "",
+              "subtasks": []
+            },
+            {
+              "title": "Implement Role-Based Access Control (RBAC)",
+              "description": "CAM-8",
+              "status": "",
+              "subtasks": []
+            }
+          ]
+        },
+        {
+          "name": "Urgent",
+          "tasks": [
+            {
+              "title": "Update User Profile Page UI",
+              "description": "CAM-1",
+              "status": "",
+              "subtasks": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ordering Priority",
+      "isActive" : false,
+      "columns": [
+        {
+          "name": "No Priority",
+          "tasks": [
+            {
+              "title": "Enhance Search Functionality",
+              "description": "CAM-5",
+              "status": "",
+              "subtasks":  []
+            }
+          ]
+        },
+        {
+          "name": "Low",
+          "tasks": [
+            {
+              "title": "Optimize Database Queries for Performance",
+              "description": "CAM-3",
+              "status": "",
+              "subtasks": []
+            },
+            {
+              "title": "Third-Party Payment Gateway",
+              "description": "CAM-6",
+              "status": "",
+              "subtasks": []
+            },
+            {
+              "title": "Conduct Security Vulnerability Assessment",
+              "description": "CAM-10",
+              "status": "",
+              "subtasks": []
+            }
+          ]
+        },
+        {
+          "name": "Medium",
+          "tasks": [
+            {
+              "title": "Create Onboarding Tutorial for New Users",
+              "description": "CAM-7",
+              "status": "",
+              "subtasks": []
+            },
+            {
+              "title": "Upgrade Server Infrastructure",
+              "description": "CAM-9",
+              "status": "",
+              "subtasks": []
+            }
+          ]
+        },
+        {
+          "name": "High",
+          "tasks": [
+            {
+              "title": "Add Multi-Language Support - Enable multi-language support within the application.",
+              "description": "CAM-2",
+              "status": "",
+              "subtasks": []
+            },
+            {
+              "title": "Implement Email Notification System",
+              "description": "CAM-4",
+              "status": "",
+              "subtasks": []
+            },
+            {
+              "title": "Implement Role-Based Access Control (RBAC)",
+              "description": "CAM-8",
+              "status": "",
+              "subtasks": []
+            }
+          ]
+        },
+        {
+          "name": "Urgent",
+          "tasks": [
+            {
+              "title": "Update User Profile Page UI",
+              "description": "CAM-1",
+              "status": "",
+              "subtasks": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ordering Title",
+      "isActive" : false,
+      "columns": [
+        {
+          "name": "No Priority",
+          "tasks": [
+            {
+              "title": "Enhance Search Functionality",
+              "description": "CAM-5",
+              "status": "",
+              "subtasks":  []
+            }
+          ]
+        },
+        {
+          "name": "Low",
+          "tasks": [
+            {
+              "title": "Conduct Security Vulnerability Assessment",
+              "description": "CAM-10",
+              "status": "",
+              "subtasks": []
+            },
+            {
+              "title": "Optimize Database Queries for Performance",
+              "description": "CAM-3",
+              "status": "",
+              "subtasks": []
+            },
+            {
+              "title": "Third-Party Payment Gateway",
+              "description": "CAM-6",
+              "status": "",
+              "subtasks": []
+            }
+          ]
+        },
+        {
+          "name": "Medium",
+          "tasks": [
+            {
+              "title": "Create Onboarding Tutorial for New Users",
+              "description": "CAM-7",
+              "status": "",
+              "subtasks": []
+            },
+            {
+              "title": "Upgrade Server Infrastructure",
+              "description": "CAM-9",
+              "status": "",
+              "subtasks": []
+            }
+          ]
+        },
+        {
+          "name": "High",
+          "tasks": [
+            {
+              "title": "Add Multi-Language Support - Enable multi-language support within the application.",
+              "description": "CAM-2",
+              "status": "",
+              "subtasks": []
+            },
+            {
+              "title": "Implement Email Notification System",
+              "description": "CAM-4",
+              "status": "",
+              "subtasks": []
+            },
+            {
+              "title": "Implement Role-Based Access Control (RBAC)",
+              "description": "CAM-8",
+              "status": "",
+              "subtasks": []
+            }
+          ]
+        },
+        {
+          "name": "Urgent",
+          "tasks": [
+            {
+              "title": "Update User Profile Page UI",
+              "description": "CAM-1",
+              "status": "",
+              "subtasks": []
+            }
+          ]
+        }
+      ]
+    }
+   
+      ]
+    }
+  
