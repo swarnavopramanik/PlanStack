@@ -76,6 +76,7 @@ Bonus:
 
   ### Screenshot
 
-[Screenshot (633)](https://github.com/swarnavopramanik/Kanban-application/assets/105142693/68e1c73d-3d29-4779-9fa0-13b8ad6cb07f)
+![Screenshot (633)](https://github.com/swarnavopramanik/Kanban-application/assets/105142693/5235d261-3157-412b-8468-6641753fc6f2)
+
 
 
