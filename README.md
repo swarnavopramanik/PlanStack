@@ -80,5 +80,5 @@ Bonus:
 ![Screenshot (635)](https://github.com/swarnavopramanik/Kanban-application/assets/105142693/5630ee65-a4bc-44ca-912a-4dfbea67ba25)
 
 
-
-
+### Links [Video]
+[Frontend assignment.webm](https://github.com/swarnavopramanik/Kanban-application/assets/105142693/3430d366-4657-428a-a518-84b6ca5e7a2b)
