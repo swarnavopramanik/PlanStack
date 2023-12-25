@@ -39,7 +39,6 @@ Evaluation Criteria
   - [Screenshot](#screenshot)
   - [Links](#links)
   - [Built with](#built-with)
-  - [Useful resources](#useful-resources)
 
 
 ## Overview
@@ -63,6 +62,7 @@ Expected Behaviour:
   - Clicking in the dropdown menu "Edit Board" opens up the "Edit Board" modal where details can be changed.
   - Columns are added and removed for the Add/Edit Board modals.
   - Deleting a board deletes all columns and tasks and requires confirmation.
+
 - Columns
   - A board needs at least one column before tasks can be added. If no columns exist, the "Add New Task" button in the header is disabled.
   - Clicking "Add New Column" opens the "Edit Board" modal where columns are added.
@@ -70,7 +70,7 @@ Expected Behaviour:
   - Adding a new task adds it to the bottom of the relevant column.
   - Updating a task's status will move the task to the relevant column.
 
-Bonus:
+### Bonus:
 
 - The tasks can be dragged and dropped to a new column.
 
@@ -82,3 +82,15 @@ Bonus:
 
 ### Links [Video]
 [Frontend assignment.webm](https://github.com/swarnavopramanik/Kanban-application/assets/105142693/3430d366-4657-428a-a518-84b6ca5e7a2b)
+
+- Live Site URL: [link](https://kanban-application-ten.vercel.app/)
+
+  # Built with
+
+- [TailwindCSS](https://tailwindcss.com/) - CSS Framework
+- Drag and Drop API
+- [React](https://reactjs.org/) - JS library
+- [Redux](https://redux.js.org/) - State management tool
+
+
+
