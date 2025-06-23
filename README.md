@@ -1,5 +1,6 @@
-# Kanban-board-application
-## Frontend CYPHERX | Internship - Assignment 
+# Task Board Application
+
+# Frontend Assignment
 
 # The application should offer three distinct ways to group the data:
 - By Status: Group tickets based on their current status.
