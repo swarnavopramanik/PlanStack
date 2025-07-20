@@ -1,9 +1,9 @@
 # Shows planning and stacking tasks for completion.
 
-![Prod+Apps+Collage](https://github.com/user-attachments/assets/9799a4a0-d781-488a-89be-4103d9015da9)
 
 
-# Frontend Assignment
+<img width="1906" height="962" alt="image" src="https://github.com/user-attachments/assets/fc8d975d-460d-495d-8b0e-85eda65f4a80" />
+
 
 # The application should offer three distinct ways to group the data:
 - By Status: Group tickets based on their current status.
