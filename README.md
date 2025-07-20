@@ -1,4 +1,4 @@
-# Task Board Application
+# Shows planning and stacking tasks for completion.
 
 ![Prod+Apps+Collage](https://github.com/user-attachments/assets/9799a4a0-d781-488a-89be-4103d9015da9)
 
